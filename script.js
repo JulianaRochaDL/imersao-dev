@@ -30,6 +30,7 @@ function renderizarCards(esportes) {
   for (const esporte of esportes){
     const article = document.createElement("article");
     article.classList.add("card");
+    article.setAttribute("data-sport", esporte.nome);
     article.innerHTML = `
     <h2>${esporte.nome}</h2>
     <p>${esporte.descricao}</p>
