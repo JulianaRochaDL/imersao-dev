@@ -1,0 +1,32 @@
+[
+{
+  "nome": "Futebol",
+  "descricao": "O futebol é o esporte mais popular do mundo, jogado por duas equipes de 11 jogadores cada, em um campo retangular com um gol em cada extremidade.",
+  "link": "https://www.cob.org.br/time-brasil/esportes/1-futebol"
+},
+{
+  "nome": "Vôlei",
+  "descricao": "O voleibol é um esporte coletivo jogado por duas equipes de seis jogadores em uma quadra dividida por uma rede.",
+  "link": "https://www.cob.org.br/time-brasil/esportes/1-volei"
+},
+{
+  "nome": "Basquete",
+  "descricao": "Um jogo disputado por duas equipes de cinco jogadores. O objetivo é arremessar a bola em uma cesta para marcar pontos.",
+  "link": "https://www.cob.org.br/time-brasil/esportes/basquete"
+},
+{
+  "nome": "Natação",
+  "descricao": "Esporte que envolve o deslocamento na água através do uso dos próprios membros, com diferentes estilos como crawl, costas, peito e borboleta.",
+  "link": "https://www.cob.org.br/time-brasil/esportes/natacao"
+},
+{
+  "nome": "Judô",
+  "descricao": "Uma arte marcial japonesa e esporte olímpico, cujo objetivo é derrubar ou imobilizar o oponente no chão.",
+  "link": "https://www.cob.org.br/time-brasil/esportes/judo"
+},
+{
+  "nome": "Atletismo",
+  "descricao": "Um conjunto de esportes constituído por várias modalidades: corrida, marcha, lançamentos e saltos.",
+  "link": "https://www.cob.org.br/time-brasil/esportes/atletismo"
+}
+]
