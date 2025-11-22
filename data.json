@@ -29,4 +29,20 @@
   "descricao": "Um conjunto de esportes constituído por várias modalidades: corrida, marcha, lançamentos e saltos.",
   "link": "https://www.cob.org.br/time-brasil/esportes/atletismo"
 }
+,
+{
+  "nome": "Tênis",
+  "descricao": "Esporte de raquete jogado entre dois jogadores ou duas duplas. O objetivo é rebater a bola para a quadra adversária de forma que o oponente não consiga devolvê-la.",
+  "link": "https://www.cob.org.br/time-brasil/esportes/tenis"
+},
+{
+  "nome": "Handebol",
+  "descricao": "Esporte coletivo em que duas equipes de sete jogadores passam a bola com as mãos com o objetivo de arremessá-la ao gol adversário.",
+  "link": "https://www.cob.org.br/time-brasil/esportes/handebol"
+},
+{
+  "nome": "Ginástica Artística",
+  "descricao": "Modalidade onde atletas realizam rotinas em aparelhos, demonstrando força, flexibilidade e coordenação.",
+  "link": "https://www.cob.org.br/time-brasil/esportes/ginastica-artistica"
+}
 ]
